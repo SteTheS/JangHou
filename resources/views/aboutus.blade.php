@@ -131,7 +131,7 @@
 								</div>
 						</div>
 						<div class="meta-text mt-30 text-center">
-							<h4>Đào Duy Khánh</h4>
+							<h4>Mai Trung Kiên</h4>
 							<p>Coder</p>			    	
 						</div>
 				</div>	
@@ -159,7 +159,7 @@
 								</div>
 						</div>
 						<div class="meta-text mt-30 text-center">
-							<h4>Nguyễn Quốc Bảo</h4>
+							<h4>Nguyễn Hữu Kim Sơn</h4>
 							<p>Coder</p>			    	
 						</div>
 				</div>																									
